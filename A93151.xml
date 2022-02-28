@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief return to a scandalous paper (said to be) published by Jeremy Ives by a lover of the true Christians, in scorn called Quakers, W.S.</title>
+            <author>Shewen, William, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93151</idno>
+            <idno type="STC">Wing S3417</idno>
+            <idno type="STC">ESTC R43739</idno>
+            <idno type="EEBO-CITATION">42475173</idno>
+            <idno type="OCLC">ocm 42475173</idno>
+            <idno type="VID">151332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief return to a scandalous paper (said to be) published by Jeremy Ives by a lover of the true Christians, in scorn called Quakers, W.S.</title>
+                  <author>Shewen, William, 1631?-1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremy.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151332:1" rendition="simple:additions"/>
+            <head>A BRIEF RETURN TO A SCANDALOUS PAPER (Said to be) Publiſhed by JEREMY IVES.</head>
+            <p>I Have Two Reaſons not to doubt but that J. I. is the Author of a Sheet this day come to light, entituled, <hi>A Sober Request to the Quakers.</hi> Firſt, Becauſe the Stile and Language of it is ſo like himſelf. 2dly, Becauſe <hi>F. Smith,</hi> a profeſt <hi>Baptist,</hi> owns the Printing of it, otherwiſe I ſhould have thought needful to have known it from his own Mouth, which in many ſuch like Caſes is very <hi>Neceſſary:</hi> But believing it needleſs in this, I proceed to meet this <hi>Baptist-Champion,</hi> not only with a Sober Return, but alſo with a Serious Re<g ref="char:EOLhyphen"/>proof for his vain Boaſt, ſlanderous Sayings, and groſs Abuſes againſt the ſaid People, obvious to every judicious impartial Reader.</p>
+            <p>
+               <hi>First,</hi> I would ſignifie to all People, that <hi>J. Ives,</hi> barely ſo, I do not count it worth my Time to write or diſcourſe with him about Matters relating to the pure <hi>Christian</hi>-Religion, and have ſeveral good Reaſons for the ſame.</p>
+            <p>But as he was deputed the Mouth of the <hi>Baptist,</hi> and lately did preſent that People, (among whom there have been, and are many Well meaning, Sear<g ref="char:EOLhyphen"/>ching, Enquiring, Simple hearted People, whom the Lord hath and will in due time anſwer with the Manifeſtation of his Love and Preſence) I ſay as ſo, I have and may concern my ſelf with him, and endeavour to detect him and his Aſ<g ref="char:EOLhyphen"/>ſociates in their Vain and Fruitleſs Attempts.</p>
+            <p>Now <hi>Jeremy,</hi> as to thy Boaſt of Charging the <hi>Quakers</hi> with being no <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> &amp;c. I know (and many others who are no <hi>Quakers</hi> alſo know) that thou haſt more Impudence and Boldneſs to Charge, then thou haſt Strength or Ability to prove; thy Tongue, (as the Proverb goes) is no ſlander with many grave Citizens, and moderate people who walk not with the <hi>Quakers;</hi> neither are all thy Syllogiſtical Arguments able to prove thy ſelf a <hi>Chriſtian,</hi> nor them none; that ancient <hi>Chriſtian</hi> Evidence recorded in the 8th Chapter to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> Verſe 16. <hi>The Spirit it ſelf beareth witneſs with our ſpirit, that we are the Children of God,</hi> accompanied and demonſtrated with a Holy Life, and Righ<g ref="char:EOLhyphen"/>teous Converſation would ſtand thee in more ſtead then thy crafty Art of Rea<g ref="char:EOLhyphen"/>ſoning; and thou mayſt remember one Day thou haſt been told ſo.</p>
+            <p>Now all People in ſhort may underſtand this, that the <hi>Quakers</hi> account them<g ref="char:EOLhyphen"/>ſelves publickly wronged, and their Principles evilly repreſented to the Nation by <hi>T. Hicks</hi> in his Forged <hi>Dialogues,</hi> and have Time after Time offered to prove publickly the ſaid Perſon (againſt all that abet him) a Forger, Slanderer and Perverter of their Words, Writings and Profeſſion, which hath been hitherto on their Part much evaded, and other Things introduced in the two laſt publick Meetings: Now the <hi>Quakers</hi> Buſineſs is, to prove their Charge aforeſaid, in the doing of which they will prove themſelves <hi>Christians,</hi> and diſmantle them<g ref="char:EOLhyphen"/>ſelves of thoſe wild Beaſt-Skins, which the <hi>Baptist</hi> eſpecially endeavours to wrap them up in, that they may be hunted and devoured, as Beaſt of Prey: I wiſh with all my Heart, it could be ſaid of them, as Chriſt ſaid of his Perſecu<g ref="char:EOLhyphen"/>tors, <hi>Father, forgive them, they know not what they do, if it be done through Zeal and Ignorance, their Sin is the leſs.</hi>
+            </p>
+            <p>And now if J. I. perſonates his Brethren in this printed Sheet, he hath gi<g ref="char:EOLhyphen"/>ven them ſufficient Ground to augment their Charge; but if he ſpeaks upon his own Head, as ſingle <hi>Jeremy,</hi> they may take the leſs Notice of his ſlanderous Sayings, Lyes and groſs Abuſes; as where he ſaith, <hi>The</hi> Quakers <hi>have written Doctrines, no Way reconcilable to</hi> Scripture-Language <hi>or</hi> Chriſtian-Religion, <hi>but Destructive to both, being vile, abſurd, non-ſenſical Opinions, proved ſo to their Face, to make void all Rules of</hi> Chriſtian-Faith <hi>and</hi> Practice; <hi>driven by Force of Argument to ſuch a Streight, not able to Reply; baſe and inſolent Beha<g ref="char:EOLhyphen"/>viour in</hi> his <hi>Abſence; nothing to anſwer to purpoſe in</hi> his <hi>Preſence:</hi> Beſides his particular Abuſe of <hi>W. Penn.</hi> in rendering him and his <hi>Chriſtian</hi>-Acknowledg<g ref="char:EOLhyphen"/>ment of the Truth, according to the Scripture, <hi>Equivocations,</hi> and he an <hi>Equivocator.</hi> Indeed <hi>Jeremy,</hi> I never met with more Untruths in ſo few Lines, thou ſayſt, <hi>publiſhed by Allowance;</hi> if thou meaneſt, by the Allowance of thy Brethren, another Time may miniſter Occaſion to ſpeak further to them.</p>
+            <p>And as to thy earneſt Requeſt to meet the <hi>Quakers</hi> to prove them no <hi>Christi<g ref="char:EOLhyphen"/>ans,</hi> and their <hi>Ministers Impoſtors</hi> and <hi>Lying Spirits, &amp;c.</hi> If they ſhould loſe ſo much Time as to meet thee, thou wouldſt fall under the ſame Condemnation: And the ſame Logical Arguments, by which thou wouldſt prove them ſuch, will ſerve to prove thy ſelf and Brethren ſuch: for my part, I muſt tell thee, thou art in my Judgment fitter to appear upon a <hi>Mountebanks</hi> Stage, then in a So<g ref="char:EOLhyphen"/>lemn Religious <hi>Chriſtian</hi> Aſſembly to diſpute for <hi>Chriſtianity:</hi> If they that im<g ref="char:EOLhyphen"/>ploy thee as their Mouth and Champion gain any Reputation or Credit by it, I fail in my Judgment: <hi>Christianity</hi> needs no Mercenary Agents to propagate its Cauſe, nor the corrupt Weapons of a Sophiſter to defend it; neither can all its Strength and Cunning ſo much as ſhake any that are eſtabliſhed and ſettled in it; thy Labour is Vain and Fooliſh: he that ſits in Heaven laughs thee to Scorn; and his Children, who walk in the leaſt Meaſure of his Heavenly Light ſee thy Folly, and do deſire thou mayſt come to ſee it thy ſelf, and ceaſe from it, that thou may adorn <hi>Christianity,</hi> and walk worthy of ſo venerable a Name; then wilt thou lay aſide thy Abuſive Slanderous Sayings, and foul Aſperſions of the People call'd <hi>Quakers,</hi> and their Principles, till then thy Prayers for them will not be regarded (the very Prayers of the Wicked are Sin) neither canſt thou in Truth ſubſcribe thy ſelf their Friend; for neither thou nor thy Brother <hi>Hicks,</hi> have ſo ſhewed your ſelves towards them; I muſt needs ſay, you have not done as you would be done by.</p>
+            <p>I remember when thou J.I. lately divulgedſt ab<g ref="char:EOLhyphen"/>ſurd and ridiculous Opinions in <hi>Croyden Market-Place,</hi>
+               <note place="margin">
+                  <hi>See a Book entituled.</hi> The Univerſality of the Light aſſerted, and the Opinions of <hi>Jer. Ives</hi> detected.</note> the Perſon that noted them, ſent thee a Copy thereof, to know whether thou hadſt any Thing to object, be<g ref="char:EOLhyphen"/>fore he communicated them publick, which in my Judgment was very honeſt and fair. Now if thy Bro<g ref="char:EOLhyphen"/>ther <hi>Hicks,</hi> when he had collected divers Opinions, which he pretends the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> held; and when he had formed and faſhioned his <hi>Quaker,</hi> with whom he intended to <hi>Dialogue,</hi> if he had then ſent him to the <hi>Quakers,</hi> to ſee whether they would own him and his Opinions, he had dealt like a Friendly <hi>Adverſary,</hi> and had prevented much Trouble in general, and excuſed himſelf from much Guilt in Particular.</p>
+            <p>As to thy <hi>Poſtſcript,</hi> wherein thou deſireſt a diſtinct Meeting, which ſhall have no Reſpect to what the <hi>Quakers</hi> object againſt T. H. As I have hinted be<g ref="char:EOLhyphen"/>fore, ſo I ſay again, that J. I. as ſo, is not worth diſputing with; but if in his printed Paper, he ſpeaks as the Mouth of the <hi>Baptist,</hi> I know, and am perſwaded, he needs not uſe Importunity, nor make ſuch a <hi>Daring Loud Chal<g ref="char:EOLhyphen"/>lenge</hi> to provoke them to maintain the Honour of their Profeſſion, and to ap<g ref="char:EOLhyphen"/>prove themſelves <hi>Christians;</hi> for they are and will be ready to do it, both by Life and Doctrine, againſt all their Oppoſers.</p>
+            <closer>
+               <signed>By a Lover of the true <hi>Christians,</hi> in Scorn called <hi>Quakers. W. S.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:151332:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
